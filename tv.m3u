@@ -1,0 +1,74 @@
+#EXTM3U
+
+# =================================================
+#        INDONESIA MOVIES + SPORTS PLAYLIST
+# =================================================
+
+# ---------------- MOVIES ----------------
+
+#EXTINF:-1 group-title="Movies Indo",My Cinema
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="Movies Indo",My Cinema Asia
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="Movies Indo",Indonesia Movie Channel
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="Movies Indo",Galaxy Premium
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="Movies Indo",Celestial Movies Indonesia
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="Movies Indo",AXN Indonesia
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="Movies Indo",Paramount Network Indonesia
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+# ---------------- SPORTS ----------------
+
+#EXTINF:-1 group-title="Sports",SPOTV
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Sports",SPOTV 2
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Sports",Fight Sports
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Sports",NBA TV
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Sports",Real Madrid TV
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Sports",FIFA+
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Sports",MUTV
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Sports",Red Bull TV
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+# ---------------- LOCAL TV ----------------
+
+#EXTINF:-1 group-title="TV Indonesia",RCTI
+https://iptv-org.github.io/iptv/countries/id.m3u
+
+#EXTINF:-1 group-title="TV Indonesia",MNCTV
+https://iptv-org.github.io/iptv/countries/id.m3u
+
+#EXTINF:-1 group-title="TV Indonesia",GTV
+https://iptv-org.github.io/iptv/countries/id.m3u
+
+#EXTINF:-1 group-title="TV Indonesia",Trans TV
+https://iptv-org.github.io/iptv/countries/id.m3u
+
+#EXTINF:-1 group-title="TV Indonesia",Trans7
+https://iptv-org.github.io/iptv/countries/id.m3u
+
+#EXTINF:-1 group-title="TV Indonesia",tvOne
+https://iptv-org.github.io/iptv/countries/id.m3u
